@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pixel Paradise</title>
+    <link rel="stylesheet" href="style group.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="logo">Pixel Paradise</div>
+    <nav class="nav-links">
+        <a href="#videos">Videos</a>
+        <a href="#photos">Photos</a>
+        <a href="#sound-effects">Sound Effects</a>
+        <a href="#graphic-elements">Graphic Elements</a>
+        <a href="#assets">Assets</a>
+        <a href="#presets">Presets</a>
+    </nav>
+    <div class="search-bar">
+        <input type="text" placeholder="Search...">
+        <button>Search</button>
+    </div>
+</header>
+
+<main class="homepage">
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/film.jpg" alt="Royalty Free Videos">
+        </div>
+        <div class="frame-label">Royalty Free Videos</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/photgraphy.jpg" alt="Royalty Free Photos">
+        </div>
+        <div class="frame-label">Royalty Free Photos</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/sound.jpg" alt="Sound Effects">
+        </div>
+        <div class="frame-label">Sound Effects</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/graphics.jpg" alt="Graphic Elements">
+        </div>
+        <div class="frame-label">Graphic Elements</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/3d.jpg" alt="Featured Artists">
+        </div>
+        <div class="frame-label">3D Models</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/texture.jpg" alt="Top Picks">
+        </div>
+        <div class="frame-label">Texture</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/trending.jpg" alt="Trending">
+        </div>
+        <div class="frame-label">Trending</div>
+    </div>
+    <div class="frame">
+        <div class="frame-image">
+            <img src="img/creator.jpg" alt="Creator's Choice">
+        </div>
+        <div class="frame-label">Creator's Choice</div>
+    </div>
+</main>
+
+</body>
+</html>
